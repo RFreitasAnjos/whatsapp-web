@@ -1,8 +1,8 @@
 # WhatsApp-Web + React<Br>
 
-<p>
-Dependencies:
+## Dependencies:
+
 ### WhatsApp-Web.js
 ### qrcode-terminal
 ### axios
-</p>
+
